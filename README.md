@@ -10,18 +10,19 @@
 
 ---
 
-### 🛠️ About Me
-Líder de equipe de TI focado em infraestrutura escalável e sistemas legados. Nas horas vagas, desço até o "nível do metal" para desenvolver jogos retro e explorar os limites do hardware clássico.
+<p align="center"> ### 🛠️ About Me </p>
+<p align="center">Líder de equipe de TI focado em infraestrutura escalável e sistemas legados. Nas horas vagas, desço até o "nível do metal" para desenvolver jogos retro e explorar os limites do hardware clássico. </p>
 
-- 🔭 Atualmente trabalhando no projeto **Retro Cashew** (SNES/NES/Mega Drive).
-- 🎲 Criando o card game místico **"Mitos de Sangue e Barro"**, focado em folclore brasileiro.
-- 👾 Tentando o impossível: Portar KOF para o SNES em 64 Megabits sem chips auxiliares.
-- 🐧 Especialista em ambientes Debian, Windows Server e bancos de dados (PostgreSQL/Firebird).
-- ⚡ "Enquanto o mundo sobe de nível nas linguagens, eu prefiro descer até o metal."
+🔭 Currently working on advanced programming.
+👾 Attempting the impossible: Porting KOF to the SNES in 96 Megabits without auxiliary chips.
+👾 Programming games for old platforms.
+🎲 Creating the mystical card game **"Myths of Blood and Clay"**, focused on Brazilian folklore.
+🐧 Specialist in Debian, Windows Server and database environments (PostgreSQL/Firebird).
+⚡ "While the world levels up in languages, I prefer to descend to metal."
 
 ---
 
-### 🤝 Connect with me:
+<p align="center">### 🤝 Connect with me: </p>
 
 <table align="center">
 <tr>
@@ -35,9 +36,9 @@ Líder de equipe de TI focado em infraestrutura escalável e sistemas legados. N
 
 ---
 
-### 💻 Languages and Tools:
+<p align="center"> ### 💻 Languages and Tools: </p>
 
-**Development & Low-Level**
+<p align="center"> **Development & Low-Level** </p>
 <table align="center">
 <tr>
 <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </td>
@@ -49,7 +50,7 @@ Líder de equipe de TI focado em infraestrutura escalável e sistemas legados. N
 </tr>
 </table>
   
-**Infrastructure & Databases**
+<p align="center"> **Infrastructure & Databases**
 <table align="center">
 <tr>
 <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </td>
