@@ -1,28 +1,35 @@
 <h1 align="center">Hi 👋, I'm Rafael Daniel</h1>
+
 <h3 align="center">IT Team Leader | Low-level Enthusiast | Retro Game Developer</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-IT%20Management-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Assembly%20(ASM)-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Retro%20Dev-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Infrastructure-green?style=flat-square" />
-</p>
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td> <img src="https://img.shields.io/badge/-IT%20Management-blue?style=flat-square" /></td>
+<td>  <img src="https://img.shields.io/badge/-Retro%20Dev-orange?style=flat-square" /></td>
+<td>  <img src="https://img.shields.io/badge/-Infrastructure-green?style=flat-square" /></td>
+</tr>
+</table>
 
 ---
 
-<p align="center"> ### 🛠️ About Me </p>
-<p align="center">Líder de equipe de TI focado em infraestrutura escalável e sistemas legados. Nas horas vagas, desço até o "nível do metal" para desenvolver jogos retro e explorar os limites do hardware clássico. </p>
-
-🔭 Currently working on advanced programming.
-👾 Attempting the impossible: Porting KOF to the SNES in 96 Megabits without auxiliary chips.
-👾 Programming games for old platforms.
-🎲 Creating the mystical card game **"Myths of Blood and Clay"**, focused on Brazilian folklore.
-🐧 Specialist in Debian, Windows Server and database environments (PostgreSQL/Firebird).
-⚡ "While the world levels up in languages, I prefer to descend to metal."
+<h4 align="center"> Contact me: <a href="https://rafaeldaniel.com/" target="blank"> www.rafaeldaniel.com </a></h4>
 
 ---
 
-<p align="center">### 🤝 Connect with me: </p>
+<h3 align="center"> 🛠️ About Me </h3>
+
+<p align="left">IT team leader focused on scalable infrastructure and legacy systems. In my spare time, I get down to the "metal level" to develop retro games and explore the limits of classic hardware. </p>
+
+- 🔭 Currently working on advanced programming.
+- 👾 Attempting the impossible: Porting KOF to the SNES in 96 Megabits without auxiliary chips.
+- 👾 Programming games for old platforms.
+- 🎲 Creating the mystical card game **"Myths of Blood and Clay"**, focused on Brazilian folklore.
+- 🐧 Specialist in Debian, Windows Server and database environments (PostgreSQL/Firebird).
+- ⚡ "While the world levels up in languages, I prefer to descend to metal."
+
+---
+
+<h3 align="center">  Social Medias: </h3>
 
 <table align="center">
 <tr>
@@ -36,9 +43,9 @@
 
 ---
 
-<p align="center"> ### 💻 Languages and Tools: </p>
+<h3 align="center"> Languages and Tools: </h3>
 
-<p align="center"> **Development & Low-Level** </p>
+<p align="center"> Development & Low-Level </p>
 <table align="center">
 <tr>
 <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </td>
@@ -50,7 +57,7 @@
 </tr>
 </table>
   
-<p align="center"> **Infrastructure & Databases**
+<p align="center"> Infrastructure & Databases
 <table align="center">
 <tr>
 <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </td>
